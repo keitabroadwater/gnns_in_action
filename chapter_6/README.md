@@ -1,4 +1,4 @@
-# gnns_in_action Chapter 5 - Graph Attention Networks (GATs)
+# GNNs in Action Chapter 6 - Graph Autoencoders
 
 Colab Links:
 
