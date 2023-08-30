@@ -1,4 +1,4 @@
-# GNNs in Action Chapter 6 - Graph Autoencoders
+# GNNs in Action Chapter 7 - Spatio-Temporal Graphs
 
 Colab Links:
 
