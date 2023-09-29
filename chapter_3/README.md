@@ -1,4 +1,4 @@
-### gnns_in_action Chapter 3 - Graph Embeddings
+### GNNs in Action -  Chapter 3 - Graph Embeddings
 
 Welcome to Chapter 3 of _"GNNs in Action"_ where we dive deep into the world of Graph Embeddings! This chapter is designed to offer insights and hands-on practice on various techniques for creating effective graph embeddings, building on foundational knowledge from previous chapters.
 
