@@ -10,3 +10,33 @@ Chapter 5 - Graph Attention Networks
 Chapter 6 - Graph AutoEncoders
 Chapter 7 - Dynamic Graphs: Spatial-Temporal GNNs 
 Chapter 8 - Learning at Scale
+
+
+# Project Title
+
+## Description
+Brief description of your project.
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+Steps to install the project.
+
+## Usage 
+Examples and code snippets on how to use the project.
+
+## Contributing
+Information on how to contribute to the project.
+
+## License
+Include the license information.
+
+## Acknowledgments
+Give credit to authors, tools, or resources used.
+
+## Contact
+Your contact information and social media links.
