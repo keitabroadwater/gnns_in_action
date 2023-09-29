@@ -1,4 +1,4 @@
-### gnns in action Chapter 4 - Graph Convolutional Networks (GCNs) and GraphSage
+### GNNs in Action Chapter 4 - Graph Convolutional Networks (GCNs) and GraphSage
 
 In Chapter 4 of _"GNNs in Action,"_ we take a comprehensive look into Graph Convolutional Networks (GCNs) and GraphSage, two pivotal architectures in the field of graph neural networks. The chapter is crafted meticulously to guide learners through the essential concepts, practical implementations, and benchmarking techniques associated with these innovative graph neural network models.
 
