@@ -1,4 +1,4 @@
-### gnns_in_action Chapter 6 - Graph AutoEncoders
+### GNNs in Action Chapter 6 - Graph AutoEncoders
 
 Chapter 6 of _"GNNs in Action"_ unveils the fascinating world of Graph AutoEncoders (GAEs). Across various sections, we'll explore generative models, the intricacies of autoencoders, and their applications, particularly in the realm of graph data. Dive into hands-on exercises, theoretical insights, and real-world applications with provided Jupyter notebooks.
 
