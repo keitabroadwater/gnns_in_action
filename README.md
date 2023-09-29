@@ -2,6 +2,8 @@
 
 ![GNNs in Action Book Cover](https://user-images.githubusercontent.com/48742689/271723330-80f40fcc-72da-4541-9651-82a787403d63.jpg)
 
+### Welcome to the GNN in Action Repo!!!
+
 ### 📘 Book Description
 
 _"Graph Neural Networks in Action"_ is a comprehensive guide designed for enthusiasts, data scientists, and machine learning practitioners eager to delve into the innovative world of Graph Neural Networks (GNNs). This meticulously crafted book walks you through the foundational concepts, advanced techniques, and practical applications of GNNs in a structured and engaging manner.
