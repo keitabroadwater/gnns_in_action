@@ -2,7 +2,6 @@
 Code and Content for Manning Publication on Graph Neural Networks
 To be published 2023.
 
-Contents:
 Chapter 2 - Graph Data Models and Data Pipelining
 Chapter 3 - Graph Embeddings
 Chapter 4 - GCNs and GraphSage
@@ -18,10 +17,14 @@ Chapter 8 - Learning at Scale
 Brief description of your project.
 
 ## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- Chapter 2 - Graph Data Models and Data Pipelining
+- Chapter 3 - Graph Embeddings
+- Chapter 4 - GCNs and GraphSage
+- Chapter 5 - Graph Attention Networks
+- Chapter 6 - Graph AutoEncoders
+- Chapter 7 - Dynamic Graphs: Spatial-Temporal GNNs 
+- Chapter 8 - Learning at Scale
+
 
 ## Installation
 Steps to install the project.
