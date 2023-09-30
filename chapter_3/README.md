@@ -4,7 +4,7 @@ Welcome to Chapter 3 of _"GNNs in Action"_ where we dive deep into the world of 
 
 ### 📄 Files Included and Colab Links
 
-#### 1. [GNNinAction_Section_3_2.ipynb](./GNNinAction_Section_3_2.ipynb)
+#### 1. [Chapter_3_2_Node2Vec.ipynb](./Chapter_3_2_Node2Vec.ipynb)
 Explore transductive embeddings with this interactive Jupyter notebook. The comprehensive guide, code snippets, and exercises will facilitate an in-depth understanding.
 - [Open in Google Colab](https://colab.research.google.com/drive/1ccKmaZ2y2UKfzXFE3flj8COotsyp5N1J)
 
