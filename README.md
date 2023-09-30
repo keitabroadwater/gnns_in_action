@@ -42,7 +42,7 @@ Take a giant leap into the advanced realms of GNNs, uncovering cutting-edge tech
 - **Chapter 7: Dynamic Graphs: Spatial-Temporal GNNs**  
 Step into the dynamic world where graphs evolve over time, and learn the specialized GNNs that capture spatial-temporal patterns.
 
-- **Chapter 8: Learning and Inference at Scale**  
+- **Chapter 8: Learning at Scale**  
 Master the strategies and techniques to scale GNNs for handling massive, real-world graph data, ensuring efficiency and performance.
 
 #### Appendices
