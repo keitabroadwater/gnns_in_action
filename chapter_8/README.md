@@ -36,13 +36,11 @@ Discover strategies for integrating remote storage systems to streamline and opt
 #### 8.10 Graph Coarsening
 Learn about graph coarsening as a technique to reduce the complexity of graphs, making them more manageable and computationally efficient.
 
-#### 8.11 Optimizations from Deep Learning
-Explore how optimizations in the deep learning realm can be harnessed to enhance the performance and scalability of GNNs.
 
-#### 8.12 Summary
+#### 8.11 Summary
 A consolidated recap of key insights, learnings, and takeaways from the chapter, equipping learners with knowledge to scale GNNs effectively.
 
-#### 8.13 References
+#### 8.12 References
 A collection of additional resources for learners to delve deeper into the nuances of scaling GNNs, including advanced readings and tools.
 
 ### 💡 Tips
