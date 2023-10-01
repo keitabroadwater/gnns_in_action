@@ -28,6 +28,8 @@ Unravel the role of batching in enhancing computational efficiency, and explore 
 #### 8.8 Parallel & Distributed Processing
 Step into the world of parallel and distributed processing to harness collective computational power, enhancing the scalability of GNNs.
 
+https://www.kaggle.com/keitabr1/chapter-8-distributed-processing-with-2-gpus
+
 #### 8.9 Training with a Remote Storage System
 Discover strategies for integrating remote storage systems to streamline and optimize the training of large-scale GNNs.
 
