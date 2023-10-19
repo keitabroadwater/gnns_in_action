@@ -25,6 +25,7 @@ Dive into the algorithms powering GNNs, evaluating their scalability and perform
 
 #### 8.7 Batching
 Unravel the role of batching in enhancing computational efficiency, and explore techniques to optimize batching for scaled GNN applications.
+- [Mini-batching Example on Colab](https://colab.research.google.com/drive/1bCXtvIOA_9dMuPeB9stehE7ZbEskQlDc?usp=sharing)
 
 #### 8.8 Parallel & Distributed Processing
 Step into the world of parallel and distributed processing to harness collective computational power, enhancing the scalability of GNNs.
