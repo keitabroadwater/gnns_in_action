@@ -6,7 +6,7 @@ Welcome to Chapter 5 of _"GNNs in Action"_! In this chapter, we unravel the myst
 
 #### 1. [GNN_GAT_Part_1.ipynb](./GNN_GAT_Part_1.ipynb)
 This first part of the chapter provides an initial plunge into GATs, setting the stage with foundational concepts and introducing their application in identifying fraudulent reviews.
-- [Open in Google Colab](https://colab.research.google.com/drive/1PG1sW3bnJ7P65yZ4Keo_InOIwoIzMbaw#scrollTo=RR2PXb9ePUab)
+- [Open in Google Colab](https://colab.research.google.com/drive/1Jrv8WBD2L235Si4DS1OIinupCWISECkX?usp=sharing)
 
 #### 2. [GNN_GAT_Part2.ipynb](./GNN_GAT_Part2.ipynb)
 Part 2 delves deeper, offering advanced insights and hands-on coding examples to further explore the intricacies and applications of GATs.
