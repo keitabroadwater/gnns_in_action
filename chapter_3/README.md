@@ -31,6 +31,7 @@ Explore additional resources, readings, and references that offer deeper insight
 
 ### 💡 Tips
 
+- For colab, the color_maps.pkl file will have to be uploaded directly.
 - Ensure that all required dependencies and libraries are installed before running the Jupyter notebook cells to ensure a smooth and efficient learning experience.
 - The interactive nature of the notebooks allows for experimentation and exploration – feel free to modify the code and observe the results to enhance understanding.
 
