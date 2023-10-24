@@ -18,7 +18,7 @@ Learn how the right hardware can make a significant difference, with insights in
 
 #### 8.5 Choice of Data Representation
 Explore how different data representations can impact the performance and scalability of GNNs, and learn to make informed choices.
-- [Graph Representation Example on Colab](https://colab.research.google.com/drive/1_OUDaevhS7XEPAfpVSd_eDJ7huE291cs?usp=sharing)
+- [Graph Representation Example on Colab](https://colab.research.google.com/drive/1hLYkN0SPj5eJCjR87EI_ykQ_HoS3N5RZ?usp=sharing)
 
 #### 8.6 Choice of GNN Algorithm
 Dive into the algorithms powering GNNs, evaluating their scalability and performance characteristics to make informed selections.
