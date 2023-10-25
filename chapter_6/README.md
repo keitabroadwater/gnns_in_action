@@ -1,6 +1,6 @@
 ### GNNs in Action Chapter 6 - Graph AutoEncoders
 
-Chapter 6 of _"GNNs in Action"_ unveils the fascinating world of Graph AutoEncoders (GAEs). Across various sections, we'll explore generative models, the intricacies of autoencoders, and their applications, particularly in the realm of graph data. Dive into hands-on exercises, theoretical insights, and real-world applications with provided Jupyter notebooks.
+Chapter 6 of _"GNNs in Action"_ unveils the fascinating world of Graph AutoEncoders (GAEs). 
 
 ### 📁 Folders and Files Included
 
@@ -12,15 +12,30 @@ Discover the world of autoencoders, featuring theoretical insights and practical
 ##### [PCA.ipynb](./part_1/PCA.ipynb)
 An exploratory notebook delving into Principal Component Analysis (PCA), a dimensionality reduction technique, showcasing its utility and application.
 
+Colab Links:
+
+Part 1: 
+a. https://colab.research.google.com/drive/1ti6i1C_-Mq15Vn4CyE3fN1vWiGGvVhlu#scrollTo=3rZ_cfRL_gtg 
+
+b. https://colab.research.google.com/drive/1IFbm3dlRv82WXsyqzDn68mfVXcMhBjD3#scrollTo=3rZ_cfRL_gtg 
+
 #### 📘 Part 2 - [part_2](./part_2)
 
 ##### [VariationalAutoEncoder.ipynb](./part_2/VariationalAutoEncoder.ipynb)
 A deep dive into Variational AutoEncoders (VAEs), offering insights into their theory, implementation, and applications in graph data.
 
+Colab Link:
+
+Part 2:  https://colab.research.google.com/drive/1-6S1zxE-VmqJ8KU8ENnpfYvXb53IBsQ-#scrollTo=JAkVDgcpJPhs
+
 #### 📘 Part 3 - [part_3](./part_3)
 
 ##### [GAE_and_VGAE.ipynb](./part_3/GAE_and_VGAE.ipynb)
 Explore Graph AutoEncoders and Variational Graph AutoEncoders, their implementation details, and application, complemented by practical code examples.
+
+Colab Link:
+
+Part 3: https://colab.research.google.com/drive/1MFHl4UI72gZFdV7LJGFONWXQbo2rLRSI#scrollTo=F3Tk_1ybEEY1 
 
 ### 🧠 Sections Covered
 
@@ -51,18 +66,3 @@ We warmly welcome contributions to refine and enhance this learning resource. Fe
 ### Happy Learning! 🎓
 
 
-
-# GNNs in Action Chapter 6 - Graph Autoencoders
-
-Colab Links:
-
-Part 1: 
-a. https://colab.research.google.com/drive/1ti6i1C_-Mq15Vn4CyE3fN1vWiGGvVhlu#scrollTo=3rZ_cfRL_gtg 
-
-b. https://colab.research.google.com/drive/1IFbm3dlRv82WXsyqzDn68mfVXcMhBjD3#scrollTo=3rZ_cfRL_gtg 
-
-
-Part 2:  https://colab.research.google.com/drive/1-6S1zxE-VmqJ8KU8ENnpfYvXb53IBsQ-#scrollTo=JAkVDgcpJPhs
-
-
-Part 3: https://colab.research.google.com/drive/1MFHl4UI72gZFdV7LJGFONWXQbo2rLRSI#scrollTo=F3Tk_1ybEEY1 
