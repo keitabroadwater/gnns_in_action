@@ -29,7 +29,7 @@ Unravel the role of batching in enhancing computational efficiency, and explore 
 
 #### 8.8 Parallel & Distributed Processing
 Step into the world of parallel and distributed processing to harness collective computational power, enhancing the scalability of GNNs.
-- [Distributed Processing Example on Kaggle](https://www.kaggle.com/keitabr1/chapter-8-distributed-processing-with-2-gpus)
+- [Distributed Processing Example on Kaggle](https://www.kaggle.com/code/keitabr1/section-8-8-of-gnns-in-action)
 - Pressing the "Edit" button in the top right, will switch to notebook view.
 
 #### 8.9 Training with a Remote Storage System
