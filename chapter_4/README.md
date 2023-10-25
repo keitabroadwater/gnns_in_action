@@ -6,7 +6,7 @@ In Chapter 4 of _"GNNs in Action,"_ we take a comprehensive look into Graph Conv
 
 #### [Chapter_4.ipynb](./Chapter_4.ipynb)
 This Jupyter notebook is your companion for Chapter 4, providing in-depth explanations, live examples, and interactive code cells to explore GCNs and GraphSage hands-on.
-- [Open in Google Colab](https://colab.research.google.com/drive/1SuEDD-N47o0yf_IclPfyzSmC2WZ-fYyU)
+- [Open in Google Colab](https://colab.research.google.com/drive/1wbEEwhTdDZF1tPuqEM1kUbKsHkwrRXT1?usp=sharing)
 
 ### 🧠 Sections Covered
 
