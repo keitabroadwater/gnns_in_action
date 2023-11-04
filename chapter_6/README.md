@@ -38,7 +38,7 @@ new_AMZN_electronics.npz  https://drive.google.com/file/d/14hq-nVvoiyZbl1U3UkAK-
 
 Colab Link:
 
-Part 3: https://colab.research.google.com/drive/1MFHl4UI72gZFdV7LJGFONWXQbo2rLRSI#scrollTo=F3Tk_1ybEEY1 
+Part 3: [https://colab.research.google.com/drive/1MFHl4UI72gZFdV7LJGFONWXQbo2rLRSI#scrollTo=F3Tk_1ybEEY1](https://colab.research.google.com/drive/1fQyWqfVeHQDVeC_h6wnxtTAfWpqrdhH_?usp=sharing) 
 
 ### 🧠 Sections Covered
 
