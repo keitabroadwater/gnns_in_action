@@ -33,6 +33,9 @@ Part 2:  https://colab.research.google.com/drive/1-6S1zxE-VmqJ8KU8ENnpfYvXb53IBs
 ##### [GAE_and_VGAE.ipynb](./part_3/GAE_and_VGAE.ipynb)
 Explore Graph AutoEncoders and Variational Graph AutoEncoders, their implementation details, and application, complemented by practical code examples.
 
+File:
+new_AMZN_electronics.npz  https://drive.google.com/file/d/14hq-nVvoiyZbl1U3UkAK-Uf6l1n4L-iT/view?usp=sharing 
+
 Colab Link:
 
 Part 3: https://colab.research.google.com/drive/1MFHl4UI72gZFdV7LJGFONWXQbo2rLRSI#scrollTo=F3Tk_1ybEEY1 
