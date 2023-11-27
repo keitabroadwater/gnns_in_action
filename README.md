@@ -9,6 +9,8 @@
 _"Graph Neural Networks in Action"_ is a comprehensive guide designed for enthusiasts, data scientists, and machine learning practitioners eager to delve into the innovative world of Graph Neural Networks (GNNs). This meticulously crafted book walks you through the foundational concepts, advanced techniques, and practical applications of GNNs in a structured and engaging manner.
 
 ---
+NOTE (11/26/2023): There is a very recent issue with the OGB datasets that is preventing a download of the Amazon Products dataset. We will continue to check on the status of the problem and update this space.
+(https://github.com/snap-stanford/ogb/issues/463)
 
 ### 📚 Table of Contents
 
