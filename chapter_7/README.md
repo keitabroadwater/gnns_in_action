@@ -1,4 +1,5 @@
 # GNNs in Action Chapter 7 - Spatio-Temporal Graphs
+NOTE: CODE IS BEING REVISED; REVISION TARGET JUNE 20 (JUNE 5)
 
 Welcome to Chapter 7! This part of "GNNs in Action" is dedicated to the exploration of Spatio-Temporal Graphs. Get ready to dive into dynamic graphs, unravel their intricacies, and learn how to harness their power for complex, time-sensitive data processing tasks.
 
