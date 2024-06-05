@@ -1,4 +1,5 @@
 ### GNNs in Action -  Chapter 3 - Graph Embeddings
+NOTE: CODE IS BEING REVISED; REVISION TARGET JUNE 20 (JUNE 5)
 
 Welcome to Chapter 3 of _"GNNs in Action"_ where we dive deep into the world of Graph Embeddings! This chapter is designed to offer insights and hands-on practice on various techniques for creating effective graph embeddings, building on foundational knowledge from previous chapters.
 
