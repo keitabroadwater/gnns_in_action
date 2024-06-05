@@ -1,4 +1,5 @@
 ### GNNs in Action Chapter 8 - Learning at Scale
+NOTE: CODE IS BEING REVISED; REVISION TARGET JUNE 20 (JUNE 5)
 
 In Chapter 8, we are scaling up! This segment of _"GNNs in Action"_ delves into the complexities and solutions associated with implementing Graph Neural Networks at a large scale. From hardware considerations to algorithm choices, and optimization techniques, get ready for a comprehensive exploration of scalability in the realm of GNNs.
 
