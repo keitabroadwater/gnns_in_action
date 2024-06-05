@@ -1,4 +1,5 @@
 ### gnns_in_action Chapter 5 - Graph Attention Networks (GATs)
+NOTE: CODE IS BEING REVISED; REVISION TARGET JUNE 20 (JUNE 5)
 
 Welcome to Chapter 5 of _"GNNs in Action"_! In this chapter, we unravel the mystique surrounding Graph Attention Networks (GATs). With a blend of theoretical insights and practical examples, learners are guided through the application of GATs in identifying fraudulent activities, specifically in the context of product reviews.
 
