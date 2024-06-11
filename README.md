@@ -44,7 +44,7 @@ Step into the dynamic world where graphs evolve over time, and learn the special
 - **Chapter 7: Learning at Scale**  
 Master the strategies and techniques to scale GNNs for handling massive, real-world graph data, ensuring efficiency and performance.
 
-- **Chapter 8: Considerations for Graph Projects**
+- **Chapter 8: Considerations for GNN Projects**
 Dive deep into the core of graph data structures, data modeling techniques, and efficient pipelining strategies essential for handling complex graph data.
 
 #### Appendices
