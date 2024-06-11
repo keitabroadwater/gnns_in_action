@@ -10,27 +10,31 @@ This first part of the chapter provides an initial plunge into GATs, setting the
 - [Open in Google Colab](https://colab.research.google.com/drive/1Jrv8WBD2L235Si4DS1OIinupCWISECkX?usp=sharing)
 
 #### 2. [GNN_GAT_Part2.ipynb](./GNN_GAT_Part2.ipynb)
-Part 2 delves deeper, offering advanced insights and hands-on coding examples to further explore the intricacies and applications of GATs.
+Part 2 goes deeper, with hands-on examples to further explore the features GATs.
 - [Open in Google Colab](https://colab.research.google.com/drive/1wWZmZhLKqpSL5hDBoy05MaubVfAlbzC4#scrollTo=VLVQfTaEDMrN)
 
-#### 3. Data - [YelpChi.zip](./data/YelpChi.zip)
+#### 3. [GNN_GAT_Part2.ipynb](./GNN_GAT_Part3.ipynb)
+Part 3 looks into handling imbalanced datasets.
+- [Open in Google Colab](https://colab.research.google.com/drive/1XrG9HaOmVHHa5vjy8QrmL2y4jP4jDxyd)
+
+#### 4. Data - [YelpChi.zip](./data/YelpChi.zip)
 This ZIP file contains the dataset used in the practical examples and exercises throughout this chapter, allowing learners to engage in hands-on activities and real-world problem solving.
 
 ### 🧠 Sections Covered
 
-#### 5.1 GATs Applied to Fraud
+#### 4.1 GATs Applied to Fraud
 Kickstart your learning journey with a real-world application of GATs, diving into their role and effectiveness in detecting fraudulent activities.
 
-#### 5.2 Understanding Attention and Its Use in GATs
+#### 4.2 Understanding Attention and Its Use in GATs
 Delve into the concept of attention, understanding its underlying principles, mechanics, and significance in the operational efficiency of GATs.
 
-#### 5.3 Solving the Fraudulent Review Problem Using PyG
+#### 4.3 Solving the Fraudulent Review Problem Using PyG
 Engage in a practical, step-by-step guide to applying GATs in identifying fraudulent reviews, utilizing the PyG library for implementation and analysis.
 
-#### 5.4 Summary
+#### 4.4 Summary
 Conclude the chapter with a succinct recap, highlighting key takeaways, insights, and preparing the groundwork for subsequent advanced topics.
 
-#### 5.5 References
+#### 4.5 References
 Expand your knowledge and explore further with a curated list of additional resources, offering extended readings and insights into GATs.
 
 ### 💡 Tips
