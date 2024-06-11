@@ -12,7 +12,7 @@ This first part of the chapter provides an initial plunge into GATs, setting the
 Part 2 goes deeper, with hands-on examples to further explore the features GATs.
 - [Open in Google Colab](https://colab.research.google.com/drive/1wWZmZhLKqpSL5hDBoy05MaubVfAlbzC4#scrollTo=VLVQfTaEDMrN)
 
-#### 3. [GNN_GAT_Part2.ipynb](./GNN_GAT_Part3.ipynb)
+#### 3. [GNN_GAT_Part3.ipynb](./GNN_GAT_Part3.ipynb)
 Part 3 looks into handling imbalanced datasets.
 - [Open in Google Colab](https://colab.research.google.com/drive/1XrG9HaOmVHHa5vjy8QrmL2y4jP4jDxyd)
 
