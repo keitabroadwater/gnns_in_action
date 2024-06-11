@@ -20,32 +20,32 @@ Embark on your journey with an insightful exploration of GNNs, where you'll unra
 - **Chapter 1: Discovering GNNs**  
 Unravel the mystique of GNNs, their origins, evolution, and the pivotal role they play in drawing actionable insights from intricate graph data.
 
-- **Chapter 2: Graph Data Models and Data Pipelining**  
-Dive deep into the core of graph data structures, data modeling techniques, and efficient pipelining strategies essential for handling complex graph data.
-
-- **Chapter 3: Graph Embeddings**  
+- **Chapter 2: Graph Embeddings**  
 Master the art and science of translating graph data into vector spaces, opening doors to a universe of machine learning applications.
 
 #### Part 2: GNNs
 Venture into the core architectures and algorithms that power GNNs, illustrated with real-world applications and hands-on examples.
 
-- **Chapter 4: Graph Convolutional Networks and GraphSAGE**  
+- **Chapter 3: Graph Convolutional Networks and GraphSAGE**  
 A detailed exploration of GCNs and GraphSAGE, unveiling their architectural nuances, operational principles, and implementation details.
 
-- **Chapter 5: Graph Attention Networks**  
+- **Chapter 4: Graph Attention Networks**  
 Discover the elegance of GANs in capturing the intricate dependencies in graph data, backed with practical examples and case studies.
 
-- **Chapter 6: Graph AutoEncoders**  
+- **Chapter 5: Graph AutoEncoders**  
 Unearth the potential of autoencoders in generating powerful graph embeddings, with a touch of hands-on implementations.
 
 #### Part 3: Advanced Topics
 Take a giant leap into the advanced realms of GNNs, uncovering cutting-edge techniques and large-scale applications.
 
-- **Chapter 7: Dynamic Graphs: Spatial-Temporal GNNs**  
+- **Chapter 6: Dynamic Graphs: Spatial-Temporal GNNs**  
 Step into the dynamic world where graphs evolve over time, and learn the specialized GNNs that capture spatial-temporal patterns.
 
-- **Chapter 8: Learning at Scale**  
+- **Chapter 7: Learning at Scale**  
 Master the strategies and techniques to scale GNNs for handling massive, real-world graph data, ensuring efficiency and performance.
+
+- **Chapter 8: Considerations for Graph Projects**
+Dive deep into the core of graph data structures, data modeling techniques, and efficient pipelining strategies essential for handling complex graph data.
 
 #### Appendices
 Equip yourself with the foundational concepts of graph theory and get up and running with the frameworks utilized throughout the book.
@@ -55,6 +55,11 @@ A refresher to the fascinating world of graphs, preparing you for the intricate 
 
 - **Appendix B: Installing and Configuring the Frameworks in This Book**  
 A practical guide to seamlessly set up and configure the frameworks, ensuring a hassle-free learning experience.
+
+- **Appendix C: Example of a Deep Generative Model**  
+An intro to generative models for cp5, we give an overview of autoencoders and how to use these to train a model for predicting digits in MNIST. 
+
+
 
 ---
 
