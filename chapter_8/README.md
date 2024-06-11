@@ -5,7 +5,7 @@ Welcome to Chapter 8 of _"GNNs in Action"_! In this chapter, we explore the intr
 
 ### 📄 Files Included
 
-#### 1. [GNNsInAction_Chapter_2.ipynb](./GNNsInAction_Chapter_2.ipynb)
+#### 1. [GNNsInAction_Chapter_8.ipynb](./GNNsInAction_Chapter_2.ipynb)
 This Jupyter notebook contains updated code that corresponds to Chapter 2. It includes detailed explanations, comments, and code cells to help you grasp the concepts of graph data models and data pipelining effectively.
 
 #### 2. [node_attributes_hashed.csv](./node_attributes_hashed.csv)
@@ -20,7 +20,7 @@ You can view and interact with the Jupyter notebook using Google Colab or any ot
 
 #### Open in Google Colab
 Click the link below to open the notebook in Google Colab:
-- [GNNs in Action Chapter 2 on Google Colab](https://colab.research.google.com/drive/127Q84lK65V88Kr692EJqELKeCzElHYZy)
+- [GNNs in Action Chapter 8 on Google Colab](https://colab.research.google.com/drive/127Q84lK65V88Kr692EJqELKeCzElHYZy)
 
 ### 🧠 Concepts Covered
 
