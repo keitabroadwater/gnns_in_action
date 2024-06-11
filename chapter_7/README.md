@@ -1,49 +1,49 @@
-### GNNs in Action Chapter 8 - Learning at Scale
+### GNNs in Action Chapter 7 - Learning at Scale
 NOTE: CODE IS BEING REVISED; REVISION TARGET JUNE 20 (JUNE 5)
 
-In Chapter 8, we are scaling up! This segment of _"GNNs in Action"_ delves into the complexities and solutions associated with implementing Graph Neural Networks at a large scale. From hardware considerations to algorithm choices, and optimization techniques, get ready for a comprehensive exploration of scalability in the realm of GNNs.
+In Chapter 7, we are scaling up! This segment of _"GNNs in Action"_ delves into the complexities and solutions associated with implementing Graph Neural Networks at a large scale. From hardware considerations to algorithm choices, and optimization techniques, get ready for a comprehensive exploration of scalability in the realm of GNNs.
 
 ### 🧠 Sections Covered
 
-#### 8.1 Examples of the Chapter
+#### 7.1 Examples of the Chapter
 We kick off with real-world examples showcasing the challenges and necessities of scaling GNNs, setting the context for the discussions to follow.
 
-#### 8.2 Framing Problems of Scale
+#### 7.2 Framing Problems of Scale
 A detailed exploration of the challenges presented when scaling GNNs, including computational, memory, and data handling issues.
 
-#### 8.3 Techniques for Tackling Scale Problems
+#### 7.3 Techniques for Tackling Scale Problems
 Discover an array of techniques and strategies designed to effectively address and mitigate the challenges of scale in GNN implementations.
 
-#### 8.4 Choice of Hardware Configuration
+#### 7.4 Choice of Hardware Configuration
 Learn how the right hardware can make a significant difference, with insights into selecting configurations that align with scalability requirements.
 
-#### 8.5 Choice of Data Representation
+#### 7.5 Choice of Data Representation
 Explore how different data representations can impact the performance and scalability of GNNs, and learn to make informed choices.
 - [Graph Representation Example on Colab](https://colab.research.google.com/drive/1hLYkN0SPj5eJCjR87EI_ykQ_HoS3N5RZ?usp=sharing)
 
-#### 8.6 Choice of GNN Algorithm
+#### 7.6 Choice of GNN Algorithm
 Dive into the algorithms powering GNNs, evaluating their scalability and performance characteristics to make informed selections.
 
-#### 8.7 Batching
+#### 7.7 Batching
 Unravel the role of batching in enhancing computational efficiency, and explore techniques to optimize batching for scaled GNN applications.
 - [Mini-batching Example on Colab](https://colab.research.google.com/drive/1bCXtvIOA_9dMuPeB9stehE7ZbEskQlDc?usp=sharing)
 
-#### 8.8 Parallel & Distributed Processing
+#### 7.8 Parallel & Distributed Processing
 Step into the world of parallel and distributed processing to harness collective computational power, enhancing the scalability of GNNs.
 - [Distributed Processing Example on Kaggle](https://www.kaggle.com/code/keitabr1/section-8-8-of-gnns-in-action)
 - Pressing the "Edit" button in the top right, will switch to notebook view.
 
-#### 8.9 Training with a Remote Storage System
+#### 7.9 Training with a Remote Storage System
 Discover strategies for integrating remote storage systems to streamline and optimize the training of large-scale GNNs.
 
-#### 8.10 Graph Coarsening
+#### 7.10 Graph Coarsening
 Learn about graph coarsening as a technique to reduce the complexity of graphs, making them more manageable and computationally efficient.
 - [Graph Coarsening Example on Colab](https://colab.research.google.com/drive/1SiPV4Laix14qBzyNJI14pIaqYaCZbSg_?usp=sharing)
 
-#### 8.11 Summary
+#### 7.11 Summary
 A consolidated recap of key insights, learnings, and takeaways from the chapter, equipping learners with knowledge to scale GNNs effectively.
 
-#### 8.12 References
+#### 7.12 References
 A collection of additional resources for learners to delve deeper into the nuances of scaling GNNs, including advanced readings and tools.
 
 ### 💡 Tips
