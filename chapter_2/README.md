@@ -1,7 +1,7 @@
-### GNNs in Action - Chapter 2 - Graph Data Models and Data Pipelining
+### GNNs in Action - Chapter 8 - Considerations for GNN Projects
 NOTE: CODE IS BEING REVISED; REVISION TARGET JUNE 20 (JUNE 5)
 
-Welcome to Chapter 2 of _"GNNs in Action"_! In this chapter, we explore the intricacies of graph data models and delve deep into the processes involved in data pipelining. This folder contains all the necessary files and resources that will aid your understanding and enable hands-on practice.
+Welcome to Chapter 8 of _"GNNs in Action"_! In this chapter, we explore the intricacies of graph data models and delve deep into the processes involved in data pipelining. This folder contains all the necessary files and resources that will aid your understanding and enable hands-on practice.
 
 ### 📄 Files Included
 
