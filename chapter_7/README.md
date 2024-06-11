@@ -39,6 +39,8 @@ Discover strategies for integrating remote storage systems to streamline and opt
 #### 7.10 Graph Coarsening
 Learn about graph coarsening as a technique to reduce the complexity of graphs, making them more manageable and computationally efficient.
 - [Graph Coarsening Example on Colab](https://colab.research.google.com/drive/1SiPV4Laix14qBzyNJI14pIaqYaCZbSg_?usp=sharing)
+- STATUS 6-11-2024 - RUNS ON T4 INSTANCE
+
 
 #### 7.11 Summary
 A consolidated recap of key insights, learnings, and takeaways from the chapter, equipping learners with knowledge to scale GNNs effectively.
