@@ -12,6 +12,8 @@ Discover the world of autoencoders, featuring theoretical insights and practical
 
 ##### [PCA.ipynb](./part_1/PCA.ipynb)
 An exploratory notebook delving into Principal Component Analysis (PCA), a dimensionality reduction technique, showcasing its utility and application.
+STATUS 6-11-2024 - RUNS ON T4 INSTANCE
+
 
 Colab Links:
 
