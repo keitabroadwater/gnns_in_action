@@ -12,15 +12,17 @@ Discover the world of autoencoders, featuring theoretical insights and practical
 
 ##### [PCA.ipynb](./part_1/PCA.ipynb)
 An exploratory notebook delving into Principal Component Analysis (PCA), a dimensionality reduction technique, showcasing its utility and application.
-STATUS 6-11-2024 - RUNS ON T4 INSTANCE
-
 
 Colab Links:
 
 Part 1: 
-a. https://colab.research.google.com/drive/1ti6i1C_-Mq15Vn4CyE3fN1vWiGGvVhlu#scrollTo=3rZ_cfRL_gtg 
+a. https://colab.research.google.com/drive/1ti6i1C_-Mq15Vn4CyE3fN1vWiGGvVhlu#scrollTo=3rZ_cfRL_gtg
+STATUS 6-11-2024 - RUNS 
 
-b. https://colab.research.google.com/drive/1IFbm3dlRv82WXsyqzDn68mfVXcMhBjD3#scrollTo=3rZ_cfRL_gtg 
+
+b. https://colab.research.google.com/drive/1IFbm3dlRv82WXsyqzDn68mfVXcMhBjD3#scrollTo=3rZ_cfRL_gtg
+STATUS 6-11-2024 - RUNS 
+
 
 #### 📘 Part 2 - [part_2](./part_2)
 
@@ -30,6 +32,8 @@ A deep dive into Variational AutoEncoders (VAEs), offering insights into their t
 Colab Link:
 
 Part 2:  https://colab.research.google.com/drive/1-6S1zxE-VmqJ8KU8ENnpfYvXb53IBsQ-#scrollTo=JAkVDgcpJPhs
+STATUS 6-11-2024 - RUNS ON T4 INSTANCE
+
 
 #### 📘 Part 3 - [part_3](./part_3)
 
