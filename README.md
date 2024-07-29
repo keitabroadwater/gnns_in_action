@@ -1,5 +1,4 @@
-# Graph Neural Networks in Action - Code and Data Repository NOTE: CODE IS BEING REVISED; REVISION TARGET JUNE 20 (JUNE 5)
-
+# Graph Neural Networks in Action - Code and Data Repository 
 ![GNNs in Action Book Cover](https://user-images.githubusercontent.com/48742689/271723330-80f40fcc-72da-4541-9651-82a787403d63.jpg)
 
 ### Welcome to the GNN in Action Repo!!!
