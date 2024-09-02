@@ -1,7 +1,6 @@
-### GNNs in Action Chapter 6 - Graph AutoEncoders
-NOTE: CODE IS BEING REVISED; REVISION TARGET JUNE 20 (JUNE 5)
+### GNNs in Action Chapter 5 - Graph AutoEncoders
 
-Chapter 6 of _"GNNs in Action"_ unveils the fascinating world of Graph AutoEncoders (GAEs). 
+Chapter 5 of _"GNNs in Action"_ unveils the fascinating world of Graph AutoEncoders (GAEs). 
 
 ### 📁 Folders and Files Included
 
