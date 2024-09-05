@@ -4,13 +4,11 @@ Welcome to Chapter 3 of _"GNNs in Action"_ where we dive deep into the world of 
 
 ### 📄 Files Included and Colab Links
 
-#### 1. [Chapter_2_2_Node2Vec.ipynb](./Chapter_2_2_Node2Vec.ipynb)
-Explore transductive embeddings with this interactive Jupyter notebook. The comprehensive guide, code snippets, and exercises will facilitate an in-depth understanding.
-- [Open in Google Colab](https://colab.research.google.com/drive/1ccKmaZ2y2UKfzXFE3flj8COotsyp5N1J)
+#### 1. ch2_embeddings.ipynb
+Explore transductive and inductive embeddings with this interactive Jupyter notebook. Embeddings generated using Node2Vec and GCN are compared.
 
-#### 2. [Chapter_2_3_GNN_Embeddings.ipynb](./Chapter_2_3_GNN_Embeddings.ipynb)
-Inductive embeddings are dissected and examined in this detailed Jupyter notebook, offering readers both theoretical insights and practical implementation examples.
-- [Open in Google Colab](https://colab.research.google.com/drive/1en0MqmE_zRhpbc0S14W-loOzMRYxu2kp)
+- dataset Political Books - polbooks.gml
+
 
 ### 🧠 Sections Covered
 
