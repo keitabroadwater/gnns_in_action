@@ -8,10 +8,10 @@ This chapter does not have colab examples.
 
 ### 📘 Notebooks
 
-- **Chapter_7_Implementation_of_GAT.ipynb**  
+- **Chapter_6_Implementation_of_GAT.ipynb**  
   Detailed implementation and exploration of Graph Attention Networks (GAT) in the context of spatio-temporal graphs.
 
-- **Chapter_7_Implementation_of_NRI.ipynb**  
+- **Chapter_6_Implementation_of_NRI.ipynb**  
   Dive deep into Neural Relational Inference (NRI) with practical examples and hands-on code.
 
 - **Load_data_.ipynb**  
@@ -33,22 +33,22 @@ This chapter does not have colab examples.
 
 ## 🧠 Sections Covered
 
-### 7.1 Temporal Models: Relations through Time
+### 6.1 Temporal Models: Relations through Time
 Discover the evolution of relations through time and explore temporal models' integral role in understanding and analyzing dynamic, time-bound data.
 
-### 7.2 Problem Definition: Pose Estimation
+### 6.2 Problem Definition: Pose Estimation
 Delve into a real-world problem of pose estimation, serving as the foundation for exploring the applications and efficiencies of spatio-temporal graphs.
 
-### 7.3 Dynamic Graph Neural Networks
+### 6.3 Dynamic Graph Neural Networks
 A comprehensive look into dynamic GNNs, with theoretical insights and practical applications illuminating their operational principles.
 
-### 7.4 Neural Relational Inference
+### 6.4 Neural Relational Inference
 Explore NRI, where the confluence of neural networks and relational inference unveils new horizons in data analysis and interpretation.
 
-### 7.5 Summary
+### 6.5 Summary
 Concise recap of key learnings and insights, preparing learners for future topics and applications of dynamic graphs in real-world scenarios.
 
-### 7.6 References
+### 6.6 References
 Access a curated list of additional readings and resources to further deepen your understanding of spatio-temporal graphs and dynamic GNNs.
 
 ## 💡 Tips
