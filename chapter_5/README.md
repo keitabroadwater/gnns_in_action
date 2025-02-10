@@ -4,47 +4,10 @@ Chapter 5 of _"GNNs in Action"_ unveils the fascinating world of Graph AutoEncod
 
 ### 📁 Folders and Files Included
 
-#### 📘 Part 1 - [part_1](./part_1)
+1. Drug Discovery
 
-##### [AutoEncoder.ipynb](./part_1/AutoEncoder.ipynb)
-Discover the world of autoencoders, featuring theoretical insights and practical code examples to master their implementation and application.
+2. Graph Autoencoders
 
-##### [PCA.ipynb](./part_1/PCA.ipynb)
-An exploratory notebook delving into Principal Component Analysis (PCA), a dimensionality reduction technique, showcasing its utility and application.
-
-Colab Links:
-
-Part 1: 
-a. https://colab.research.google.com/drive/1ti6i1C_-Mq15Vn4CyE3fN1vWiGGvVhlu#scrollTo=3rZ_cfRL_gtg
-STATUS 6-11-2024 - RUNS 
-
-
-b. https://colab.research.google.com/drive/1IFbm3dlRv82WXsyqzDn68mfVXcMhBjD3#scrollTo=3rZ_cfRL_gtg
-STATUS 6-11-2024 - RUNS 
-
-
-#### 📘 Part 2 - [part_2](./part_2)
-
-##### [VariationalAutoEncoder.ipynb](./part_2/VariationalAutoEncoder.ipynb)
-A deep dive into Variational AutoEncoders (VAEs), offering insights into their theory, implementation, and applications in graph data.
-
-Colab Link:
-
-Part 2:  https://colab.research.google.com/drive/1-6S1zxE-VmqJ8KU8ENnpfYvXb53IBsQ-#scrollTo=JAkVDgcpJPhs
-STATUS 6-11-2024 - RUNS ON T4 INSTANCE
-
-
-#### 📘 Part 3 - [part_3](./part_3)
-
-##### [GAE_and_VGAE.ipynb](./part_3/GAE_and_VGAE.ipynb)
-Explore Graph AutoEncoders and Variational Graph AutoEncoders, their implementation details, and application, complemented by practical code examples.
-
-File:
-new_AMZN_electronics.npz  https://drive.google.com/file/d/14hq-nVvoiyZbl1U3UkAK-Uf6l1n4L-iT/view?usp=sharing 
-
-Colab Link:
-
-Part 3: [https://colab.research.google.com/drive/1MFHl4UI72gZFdV7LJGFONWXQbo2rLRSI#scrollTo=F3Tk_1ybEEY1](https://colab.research.google.com/drive/1fQyWqfVeHQDVeC_h6wnxtTAfWpqrdhH_?usp=sharing) 
 
 ### 🧠 Sections Covered
 
