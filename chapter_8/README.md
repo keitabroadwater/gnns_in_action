@@ -5,8 +5,8 @@ Welcome to Chapter 8 of _"GNNs in Action"_! In this chapter, we explore the intr
 
 ### 📄 Files Included
 
-#### 1. [GNNsInAction_Chapter_8.ipynb](./GNNsInAction_Chapter_2.ipynb)
-This Jupyter notebook contains updated code that corresponds to Chapter 2. It includes detailed explanations, comments, and code cells to help you grasp the concepts of graph data models and data pipelining effectively.
+#### 1. [GNNsInAction_Chapter_8.ipynb](./GNNsInAction_Chapter_8.ipynb)
+This Jupyter notebook contains updated code that corresponds to Chapter 8. It includes detailed explanations, comments, and code cells to help you grasp the concepts of graph data models and data pipelining effectively.
 
 #### 2. [node_attributes_hashed.csv](./node_attributes_hashed.csv)
 A CSV file that contains hashed node attributes, offering real-world data for hands-on practice in managing and manipulating graph data.

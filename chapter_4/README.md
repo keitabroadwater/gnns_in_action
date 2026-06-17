@@ -8,11 +8,11 @@ Welcome to Chapter 5 of _"GNNs in Action"_! In this chapter, we unravel the myst
 This first part of the chapter provides an initial plunge into GATs, setting the stage with foundational concepts and introducing their application in identifying fraudulent reviews.
 - [Open in Google Colab](https://colab.research.google.com/drive/1Jrv8WBD2L235Si4DS1OIinupCWISECkX?usp=sharing)
 
-#### 2. [GNN_GAT_Part2.ipynb](./GNN_GAT_Part2.ipynb)
+#### 2. [GNN_GAT_part2.ipynb](./GNN_GAT_part2.ipynb)
 Part 2 goes deeper, with hands-on examples to further explore the features GATs.
 - [Open in Google Colab](https://colab.research.google.com/drive/1wWZmZhLKqpSL5hDBoy05MaubVfAlbzC4#scrollTo=VLVQfTaEDMrN)
 
-#### 3. [GNN_GAT_Part3.ipynb](./GNN_GAT_Part3.ipynb)
+#### 3. [GNN_GAT_part3.ipynb](./GNN_GAT_part3.ipynb)
 Part 3 looks into handling imbalanced datasets.
 - [Open in Google Colab](https://colab.research.google.com/drive/1XrG9HaOmVHHa5vjy8QrmL2y4jP4jDxyd)
 
